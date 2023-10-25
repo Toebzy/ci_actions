@@ -2,7 +2,7 @@ package ci;
 
 public class MyFunctionality {
 
-    public MyFunctionality() {
+    public MyFunctionality() { //comment for init push
     }
     
     public int getTen(){
